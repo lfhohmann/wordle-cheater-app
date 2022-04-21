@@ -18,6 +18,15 @@ On the right column text fields, you will type the *'hits'* and *'misses'* patte
 For example, if, after typing the *'suggested'* word, the Wordle game outputs: ⬛🟨⬛⬛🟩, you will type **BYBBG**.
 After entering the pattern, the app will show you the next *'suggested'* word.
 
+These strategies have incredible performance:
+
+| **Mode** | Avg. Guesses |
+|----------|--------------|
+| Normal   | 3.4201       |
+| Hard     | 3.5076       |
+
+##### 
+
 The whole credit for the optimal words sequence data, goes to [**Alex Selby**](https://sonorouschocolate.com/notes/index.php?title=The_best_strategies_for_Wordle,_part_2#Using_larger_hidden_word_lists).
 This app merely uses his data to help you cheat ; ).
 
