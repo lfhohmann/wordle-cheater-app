@@ -2,7 +2,7 @@
 
 ## A **[Streamlit App](https://share.streamlit.io/lfhohmann/wordle-cheater-app/main)** to cheat the **[Wordle](https://www.nytimes.com/games/wordle/index.html)** game
 
-![wordle game image](https://storage.googleapis.com/kaggle-datasets-images/2088070/3468257/18ead89eb009931e107fcabb605018ce/dataset-cover.jpg?t=2022-04-15-19-10-50)
+![wordle game image](https://cdn1.dotesports.com/wp-content/uploads/sites/3/2022/02/17104043/Wordle.jpg)
 
 The title is pretty self explanatory, more informations can be found on the App itself and on the links below.
 
